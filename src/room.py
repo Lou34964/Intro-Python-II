@@ -57,10 +57,10 @@ class Room:
 
   def get_directions(self):
     compass = {
-      "n_to" = "north"
-      "s_to" = "south"
-      "e_to" = "east"
-      "w_to" = "west"
+      "n_to": "north",
+      "s_to": "south",
+      "e_to": "east",
+      "w_to": "west",
     }
     directions = []
 
